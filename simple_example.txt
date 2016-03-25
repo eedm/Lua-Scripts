@@ -1,0 +1,14 @@
+simple_example.lua
+
+LJ.setLuaThrottle(25)
+Frequency in Hz (should be 20khz?): 	19235.000000
+Ticks: 	39,997,184.000000 per second = 40mhz clock (25 ns)
+~50 us period with 11sec neg. pulse
+
+LJ.setLuaThrottle(25)
+Frequency in Hz: 	16951.000000
+Ticks: 	39995200.000000
+
+LJ.setLuaThrottle(10)
+Frequency in Hz: 	12492.000000
+Ticks: 	39995200.000000
